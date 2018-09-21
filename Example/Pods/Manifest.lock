@@ -1,0 +1,16 @@
+PODS:
+  - HYLocationKit (0.1.0)
+
+DEPENDENCIES:
+  - HYLocationKit (from `../`)
+
+EXTERNAL SOURCES:
+  HYLocationKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HYLocationKit: de5a88554747e52d4ea56962a66b077bd94ca019
+
+PODFILE CHECKSUM: 465c26fe383af606eda8d12d7d11ed00000f1abf
+
+COCOAPODS: 1.4.0

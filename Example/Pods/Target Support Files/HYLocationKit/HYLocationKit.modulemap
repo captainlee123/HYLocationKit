@@ -1,0 +1,6 @@
+framework module HYLocationKit {
+  umbrella header "HYLocationKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
